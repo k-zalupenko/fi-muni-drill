@@ -130,7 +130,7 @@
     ]
   },
   {
-    "name": "Z jakých šifrovacích algoritmů se obvykle tvoří hašovací funkce?",
+    "name": "!Z jakých šifrovacích algoritmů se obvykle tvoří hašovací funkce?",
     "answers": [
       {
         "body": "Asymetrická šifra",
@@ -294,7 +294,7 @@
     ]
   },
   {
-    "name": "Snímače otisků prstů jsou",
+    "name": "!Snímače otisků prstů jsou",
     "answers": [
       {
         "body": "inkoustové (tryskové)",
@@ -562,7 +562,7 @@
     ]
   },
   {
-    "name": "Odpovědí na narušení se u čipových karet myslí:",
+    "name": "!Odpovědí na narušení se u čipových karet myslí:",
     "answers": [
       {
         "body": "Automatická akce provedená chráněnou částí při detekci pokusu o narušení.",
@@ -663,7 +663,7 @@
     ]
   },
   {
-    "name": "Jednosměrnost u kryptografických hašovacích funkcí znamená",
+    "name": "!Jednosměrnost u kryptografických hašovacích funkcí znamená",
     "answers": [
       {
         "body": "V rozumném čase nejsme schopni najít x, y tak, aby h(x)=h(y)",
@@ -835,7 +835,7 @@
     ]
   },
   {
-    "name": "Co je to narozeninový paradox?",
+    "name": "!Co je to narozeninový paradox?",
     "answers": [
       {
         "body": "Lze jej ilustrovat faktem, že v sále s 23 lidmi je pravděpodobnost stejného data narození dvou lidí větší než 50 %",
@@ -856,7 +856,7 @@
     ]
   },
   {
-    "name": "Které z uvedených kategorií čipových karet podle technologie uchování a práce s daty rozlišujeme?",
+    "name": "!Které z uvedených kategorií čipových karet podle technologie uchování a práce s daty rozlišujeme?",
     "answers": [
       {
         "body": "Paměťové karty se speciální logikou.",
@@ -877,7 +877,7 @@
     ]
   },
   {
-    "name": "Oční duhovka je snímána pomocí",
+    "name": "!Oční duhovka je snímána pomocí",
     "answers": [
       {
         "body": "ultrafialového paprsku.",
@@ -919,7 +919,7 @@
     ]
   },
   {
-    "name": "Jaké jsou možnosti prevence padělání tokenů?",
+    "name": "!Jaké jsou možnosti prevence padělání tokenů?",
     "answers": [
       {
         "body": "Modifikace dostupného vybavení (modifikace vybraných barev u kopírky, vkládání identifikátoru).",
@@ -948,7 +948,7 @@
     ]
   },
   {
-    "name": "Digitální podpis ověříme pomocí",
+    "name": "!Digitální podpis ověříme pomocí",
     "answers": [
       {
         "body": "Veřejného klíče podepisující osoby",
@@ -1157,7 +1157,7 @@
     ]
   },
   {
-    "name": "Biometrické technologie mohou být založeny na některém z těchto typů charakteristik:",
+    "name": "!Biometrické technologie mohou být založeny na některém z těchto typů charakteristik:",
     "answers": [
       {
         "body": "fyziologický",
@@ -1182,7 +1182,7 @@
     ]
   },
   {
-    "name": "Co je to zaručený elektronický podpis",
+    "name": "!Co je to zaručený elektronický podpis",
     "answers": [
       {
         "body": "Jednoznačně ověřitelný podpis",
@@ -1283,7 +1283,7 @@
     ]
   },
   {
-    "name": "Proces použití biometrik pro autentizaci zahrnuje",
+    "name": "!Proces použití biometrik pro autentizaci zahrnuje",
     "answers": [
       {
         "body": "registraci",
@@ -1329,7 +1329,7 @@
     ]
   },
   {
-    "name": "Co je to semi-invazivní časová analýza?",
+    "name": "!Co je to semi-invazivní časová analýza?",
     "answers": [
       {
         "body": "Druh semi-invazivního útoku zneužívající u mnohých čipových karet možnost ovlivnění vstupního hodinového cyklu.",
@@ -1340,7 +1340,7 @@
         "right": false
       },
       {
-        "body": "žádná z výše uvedených odpovědí.",
+        "body": "Žádná z výše uvedených odpovědí.",
         "right": true
       },
       {
@@ -1434,7 +1434,7 @@
     ]
   },
   {
-    "name": "Na co není výhodné použít biometriky ",
+    "name": "!Na co není výhodné použít biometriky ",
     "answers": [
       {
         "body": "na autentizaci dat.",
@@ -1564,7 +1564,7 @@
     ]
   },
   {
-    "name": "Soubor /etc/passwd může obsahovat",
+    "name": "!Soubor /etc/passwd může obsahovat",
     "answers": [
       {
         "body": "Datum a čas posledního úspěšného přihlášení do systému",
@@ -1736,7 +1736,7 @@
     ]
   },
   {
-    "name": "Jaké jsou typické velikosti pamětí u současných čipových karet?",
+    "name": "!Jaké jsou typické velikosti pamětí u současných čipových karet?",
     "answers": [
       {
         "body": "\u003c 100KB RAM, \u003c 100KB ROM, \u003e 1MB EEPROM",
@@ -1791,7 +1791,7 @@
     ]
   },
   {
-    "name": "Biometrická data při opakovaném měření kvalitním zařízením",
+    "name": "!Biometrická data při opakovaném měření kvalitním zařízením",
     "answers": [
       {
         "body": "jsou vždy shodná na 99 % a víc.",
@@ -1854,7 +1854,7 @@
     ]
   },
   {
-    "name": "Odolností vůči narušení se u čipových karet myslí:",
+    "name": "!Odolností vůči narušení se u čipových karet myslí:",
     "answers": [
       {
         "body": "Automatická akce provedená chráněnou částí při zjištění pokusu o narušení.",
@@ -1917,7 +1917,7 @@
     ]
   },
   {
-    "name": "Které z uvedených útoků na čipové karty nepatří mezi logické útoky?",
+    "name": "!Které z uvedených útoků na čipové karty nepatří mezi logické útoky?",
     "answers": [
       {
         "body": "Časová analýza",
@@ -1938,7 +1938,7 @@
     ]
   },
   {
-    "name": "Autentizace pomocí verifikace hlasu probíhá typicky",
+    "name": "!Autentizace pomocí verifikace hlasu probíhá typicky",
     "answers": [
       {
         "body": "pomocí běžného mikrofonu.",
@@ -1959,7 +1959,7 @@
     ]
   },
   {
-    "name": "Které z uvedených typů autentizačních kalkulátorů se používají v IT bezpečnosti?",
+    "name": "!Které z uvedených typů autentizačních kalkulátorů se používají v IT bezpečnosti?",
     "answers": [
       {
         "body": "Kalkulátor s hodinami.",
@@ -2047,7 +2047,7 @@
     ]
   },
   {
-    "name": "Útok na čipové karty pomocí odběrové analýzy využívá: ",
+    "name": "!Útok na čipové karty pomocí odběrové analýzy využívá: ",
     "answers": [
       {
         "body": "Závislost průběhu odběru proudu na ukládaných datech do paměti EEPROM.",
@@ -2207,7 +2207,7 @@
     ]
   },
   {
-    "name": "Při kombinaci šifrování veřejným klíčem a podpisu dokumentu se doporučuje operace provést v následujícím pořadí:",
+    "name": "!Při kombinaci šifrování veřejným klíčem a podpisu dokumentu se doporučuje operace provést v následujícím pořadí:",
     "answers": [
       {
         "body": "Podpis, šifrování, podpis",
@@ -2261,7 +2261,7 @@
     ]
   },
   {
-    "name": "U dynamiky podpisu je důležitý ",
+    "name": "!U dynamiky podpisu je důležitý ",
     "answers": [
       {
         "body": "aretačně-dynamický tablet.",
@@ -2408,7 +2408,7 @@
     ]
   },
   {
-    "name": "Které biometrické charakteristiky bývají nazývány také statickými?",
+    "name": "!Které biometrické charakteristiky bývají nazývány také statickými?",
     "answers": [
       {
         "body": "fenotypické",
@@ -2580,7 +2580,7 @@
     ]
   },
   {
-    "name": "Mezi nejslibnější technologie v oblasti identifikace v počítačových systémech pomocí biometrik nepatří",
+    "name": "!Mezi nejslibnější technologie v oblasti identifikace v počítačových systémech pomocí biometrik nepatří",
     "answers": [
       {
         "body": "otisk prstu.",
@@ -2676,7 +2676,7 @@
     ]
   },
   {
-    "name": "Markanta v oblasti biometrik znamená:",
+    "name": "!Markanta v oblasti biometrik znamená:",
     "answers": [
       {
         "body": "Významný bod v otisku prstu.",
@@ -2789,7 +2789,7 @@
     ]
   },
   {
-    "name": "Zjistitelností narušení se u čipových karet myslí: ",
+    "name": "!Zjistitelností narušení se u čipových karet myslí: ",
     "answers": [
       {
         "body": "Po narušení jsou stopy narušení obtížně odstranitelné.",
@@ -3061,7 +3061,7 @@
     ]
   },
   {
-    "name": "Digitálně podepisujeme ",
+    "name": "!Digitálně podepisujeme ",
     "answers": [
       {
         "body": "Pouze haš podepisovaného dokumentu",
@@ -3078,7 +3078,7 @@
     ]
   },
   {
-    "name": "Při používání digitálního podpisu používáme",
+    "name": "!Při používání digitálního podpisu používáme",
     "answers": [
       {
         "body": "Digitální klíč",
@@ -3137,7 +3137,7 @@
     ]
   },
   {
-    "name": "Jak zajistíme integritu veřejného klíče",
+    "name": "!Jak zajistíme integritu veřejného klíče",
     "answers": [
       {
         "body": "Utajením soukromé části veřejného klíče",
@@ -3200,7 +3200,7 @@
     ]
   },
   {
-    "name": "K čemu se používá CAPTCHA",
+    "name": "!K čemu se používá CAPTCHA",
     "answers": [
       {
         "body": "K odlišení uživatelů od robotů",
@@ -3619,7 +3619,7 @@
     ]
   },
   {
-    "name": "Které z uvedených odpovědí jsou pravdivé?",
+    "name": "!Které z uvedených odpovědí jsou pravdivé?",
     "answers": [
       {
         "body": "Cena výroby jednoho kusu tokenu klesá při výrobě mnohakusové série.",
@@ -3631,7 +3631,7 @@
       },
       {
         "body": "Cena padělání jednoho kusu klesá při uplatnitelnosti mnohakusové série padělku.",
-        "right": false
+        "right": true
       },
       {
         "body": "Relativní cena padělání se zvyšuje s každým dalším padělkem.",
@@ -3665,7 +3665,7 @@
     ]
   },
   {
-    "name": "Při hašování hesel pro autentizaci uživatelů pomocí hesel:",
+    "name": "!Při hašování hesel pro autentizaci uživatelů pomocí hesel:",
     "answers": [
       {
         "body": "Ukládáme pouze haš hesla a rekonstrukce otevřené podoby není možná",
@@ -3728,7 +3728,7 @@
     ]
   },
   {
-    "name": "Útok na hesla může být",
+    "name": "!Útok na hesla může být",
     "answers": [
       {
         "body": "Slovníkový",
@@ -3828,7 +3828,7 @@
     ]
   },
   {
-    "name": "Mezi reálně používané biometrické technologie patří",
+    "name": "!Mezi reálně používané biometrické technologie patří",
     "answers": [
       {
         "body": "dynamika pohybu hlavy",
@@ -3961,7 +3961,7 @@
     ]
   },
   {
-    "name": "Současné čipové karty:",
+    "name": "!Současné čipové karty:",
     "answers": [
       {
         "body": "Umožňují pouze provádění kryptografických operací asymetrické kryptografie.",
@@ -4070,7 +4070,7 @@
     ]
   },
   {
-    "name": "Jaké vlastnosti mají magneto-optické čipové karty?",
+    "name": "!Jaké vlastnosti mají magneto-optické čipové karty?",
     "answers": [
       {
         "body": "Umožňují snímání čárových kódů zobrazovaných na monitoru při vstupu do internetového bankovnictví a jejich okamžité zpracování v čipu.",
@@ -4183,7 +4183,7 @@
     ]
   },
   {
-    "name": "Jaká je správná sekvence operací při ověřování PINu odolná proti přerušení napájení?",
+    "name": "!Jaká je správná sekvence operací při ověřování PINu odolná proti přerušení napájení?",
     "answers": [
       {
         "body": "Zvýšení čítače, test čítače pokusů větší než 0, ověření korektnosti PINu, zvýšení čítače při dobrém PINu.",
@@ -4368,7 +4368,7 @@
     ]
   },
   {
-    "name": "Pro urychlení počítačových systémů využívajících digitální podpis",
+    "name": "!Pro urychlení počítačových systémů využívajících digitální podpis",
     "answers": [
       {
         "body": "u čipových karet bývají použity kryptografické koprocesory ",
@@ -4389,6 +4389,73 @@
       {
         "body": "používají obě strany identický privátní klíč",
         "right": false
+      }
+    ]
+  },
+  {
+    "name": "!Která z následujících tvrzení o čipových kartách jsou pravdivá?",
+    "answers": [
+      {
+        "body": "Bezkontaktní čipová karta potřebuje anténu pro komunikaci i získávání energie.",
+        "right": true
+      },
+      {
+        "body": "Kontaktní čipová karta má vlastní zdroj energie a komunikuje se čtečkou přímo.",
+        "right": false
+      },
+      {
+        "body": "U bezkontaktní čipové karty je zajištěno autorizované smazání dat při výpadku napájecího napětí.",
+        "right": false
+      },
+      {
+        "body": "Komunikaci mezi čtečkou a bezkontaktní čipovou kartou lze odposlechnout.",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "!Certifikát veřejného klíče dle X.509:",
+    "answers": [
+      {
+        "body": "pevně stanovuje dobu platnosti certifikátu",
+        "right": true
+      },
+      {
+        "body": "obvykle bývá cílem botnetů typu Chuck Norris",
+        "right": false
+      },
+      {
+        "body": "vytváří certifikační autorita svým veřejným klíčem",
+        "right": false
+      },
+      {
+        "body": "je obtížně replikovatelný",
+        "right": false
+      },
+      {
+        "body": "identifikuje vydavatele certifikátu",
+        "right": true
+      }
+    ]
+  },
+  {
+    "name": "!Hybridní čipová karta",
+    "answers": [
+      {
+        "body": "je založena na využití kombinace asymetrické a symetrické kryptografie",
+        "right": false
+      },
+      {
+        "body": "pracuje se dvěma různými čipy",
+        "right": true
+      },
+      {
+        "body": "je nyní výhradní technologií pro bankovní karetní operace",
+        "right": false
+      },
+      {
+        "body": "poskytuje možnost komunikace přes kontaktní i bezkontaktní rozhraní",
+        "right": true
       }
     ]
   }
